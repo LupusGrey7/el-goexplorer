@@ -28,9 +28,14 @@ go.work.sum
 .env
 
 # Editor/IDE
-# .idea/
+.idea/
 # .vscode/
 
 # Build artifacts
 *.bin
+
+# Intellige
+.idea/easycode/codebase-v2.xml
+
+
 
